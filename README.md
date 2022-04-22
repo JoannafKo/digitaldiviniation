@@ -22,7 +22,7 @@ I then created an input and button that has a calender built in. Using if else s
 <img src="Assets/WIP5.png" width="500">
 <img src="Assets/WIP6.png" width="500">
 
-Once I completed the technical aspects of the website, I moved onto the cosmetic elements. I drew a starry background with photoshop. I wasn't satisfied with that, so I went to a video tutorial (linked down bellow), to create animating particles that were floating in the background. I used codepen to get the javascript, and then I tweeked that script so that it resembled more stars. I finally created an about page that summarized the digital diviniation tool. And that was about it.
+Once I completed the technical aspects of the website, I moved onto the cosmetic elements. I drew a starry background with photoshop. I wasn't satisfied with that, so I went to a video tutorial (linked down bellow), to create animating particles that were floating in the background. I used codepen to get the javascript, and then I tweeked that script so that it resembled more stars. I finally created an about page that summarized the digital diviniation tool. And that was about it. I ended up forgowing the background when it became difficult to maintain alongside the particles.
 
 
 <img src="Assets/background.png" width="500">
