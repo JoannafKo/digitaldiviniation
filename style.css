@@ -1,0 +1,117 @@
+
+body{
+    background-color: #00060d;
+    background-image: url("assets/background.png");
+    margin: 4;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 9px;
+    color: aliceblue;
+    padding: 10px;
+    font-weight: 300;
+    text-shadow: 0 0 50px aliceblue(255, 255, 255, 5);
+    z-index: 9999;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    color: #f3f9ff;
+    font-weight: 600;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    color: #daedfd;
+    padding: 20px;
+    font-weight: 600;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    color: #f3f9ff;
+    padding: 40px;
+    font-weight: 600;
+}
+
+#restart{
+    position: fixed;
+    text-align: right;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-size: 75%;
+    color: #b1cee7;
+    left: 15px;
+    top: -15px;
+}
+
+
+
+#enterbtn{
+    text-align: center;
+    /* position: fixed; */
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    padding: 3px 20px;
+    border-radius: 180px;
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+
+#about{
+    position: fixed;
+    text-align: right;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-size: 75%;
+    color: #b1cee7;
+    right: 15px;
+    top: -15px;
+}
+
+
+p{
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    padding: 1px;
+    color: #c2d6e7;
+    /* height: 20px; */
+}
+
+input{
+display: block;
+margin: 0 auto;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+}
+
+#bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+}
+
+a{
+    color: rgb(177, 255, 255);
+}
