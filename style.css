@@ -2,6 +2,7 @@
 body{
     background-color: #00060d;
     background-image: url("assets/background.png");
+    /* position: absolute; */
     margin: 4;
     padding: 0;
 }
