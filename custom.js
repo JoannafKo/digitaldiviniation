@@ -116,7 +116,9 @@ particlesJS("bg", {
   
   let cnvs = document.querySelector("canvas");
   // cnvs.domElement.style.height = '100%';
-  console.log(cnvs);
+  cnvs.style = "height:100%";
+  cnvs.style.position = "fixed";
+  console.log(cnvs.style);
   var count_particles, stats, update;
   // stats = new Stats();
   // stats.setMode(0);
