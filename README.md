@@ -1,7 +1,7 @@
 # Digital Diviniation - Zodiac
 A tool where users can enter in their birthday to learn more about their zodiac sign
 
-The website can be found [here]()
+The website can be found [here](https://joannafko.github.io/digitaldiviniation/)
 
 The portfolio can be found [here](https://joanna-ko.glitch.me/p4.html)
 
