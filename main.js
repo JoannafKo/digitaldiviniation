@@ -80,6 +80,7 @@ let zodiac =
         {"01": [01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]}],
         'You': "♑︎ Are a Capricorn ♑︎",
         'Personality': "The sea goat is responsible, patient, & calm. But also fatalistic, insensitive, & apathetic",
+        'Element': "Earth",
         'Backstory': "The mythological background of Capricorn is too vague. Sometimes it is associated with Amalthea, the nurturing mother goat of Zeus, or the goat god, Pan. Capricorn can be different depending on the culture. In the Hindu Zodiac, it was Makara, the mythological crocodile",
         'Jobs': "Lawyer, accountant, principal, teacher, landlord"},
     'Aquarius':{
