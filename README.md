@@ -40,8 +40,30 @@ I ran into another challenge with the particles. Firstly, I had trouble getting 
 <img src="Assets/WIP9.png" width="500">
 <img src="Assets/WIP10.png" width="500">
 
+I got feedback that the tool needs to make it so that the user can gain information that is tailored to them, such as learning about what career is best for them. So I created a new array that contained things like the birth flowers, birth fems, relationship compatabilites, and revised the job sections to inclide an explanation.
+
+<img src="Assets/WIP11.png" width="500">
+
+I was initially considering making a new page that is exclusive to the chosen sign, however, due to time contraints, I settled on just doing a button generator once more.
+
 ## References
 
 [Codepen](https://codepen.io/VincentGarreau/pen/bGxvQd)
 
 [Dynamic background tutorial](https://youtu.be/ELV32bqMBlc)
+
+[Birth Month Flowers and Their Meanings](https://www.almanac.com/content/birth-month-flowers-and-their-meanings)
+
+[Every Birth Flower by Month](https://www.brides.com/birth-flower-by-month-5202183)
+
+[The Best Jobs for Your Astrological Sign](https://www.ziprecruiter.com/blog/the-best-jobs-for-your-astrological-sign/)
+
+[What Your Zodiac Sign Says About Your Career](https://www.marieclaire.com/culture/g3396/zodiac-sign-career-traits/)
+
+[Zodiac Compatibility: Signs That Should and Shouldn’t Date Taylor MarkarianTaylor Markarian](https://www.rd.com/list/zodiac-signs-compatibility/)
+
+[LOVE COMPATIBILITY](https://www.astrology.com/compatibility/zodiac-signs/love.html)
+
+[Zodiac Signs and Astrology Signs Meanings and Characteristics](https://www.astrology-zodiac-signs.com/)
+
+[Astrology Love Matcher: Are Your Zodiac Signs Compatible?](https://astrostyle.com/horoscopes/love/zodiac-sign-compatibility/)

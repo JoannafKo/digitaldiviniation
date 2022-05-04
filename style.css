@@ -27,6 +27,10 @@ h2{
     font-weight: 600;
 }
 
+#uniquely{
+    margin-top: 3%;
+}
+
 h3{
     text-align: center;
     font-family: 'Comic Neue', cursive;
@@ -36,13 +40,19 @@ h3{
     font-weight: 600;
 }
 
+#jobsmargin{
+    margin-top: -2%;
+    margin-bottom: 1%;
+}
+
 h4{
     text-align: center;
     font-family: 'Comic Neue', cursive;
     font-family: 'Raleway', sans-serif;
-    color: #f3f9ff;
-    padding: 40px;
+    color: #daebfc;
+    padding: 5px;
     font-weight: 600;
+    margin-top: -2%;
 }
 
 #restart{
@@ -56,6 +66,15 @@ h4{
     top: -15px;
 }
 
+
+#div{
+    /* padding: 0 auto; */
+    position: center;
+    margin: 0 auto;
+    width: 50%;
+    /* width: center; */
+    /* height: 50%; */
+}
 
 
 #enterbtn{
@@ -72,6 +91,23 @@ h4{
     background-color: aliceblue;
     cursor: pointer;
 }
+
+#secondbutton{
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    padding: 3px 15px;
+    border-radius: 180px;
+    border: none;
+    outline: none;
+    background-color: rgb(175, 209, 238);
+    cursor: pointer;
+    margin-bottom: 2%;
+    /* margin-top: -3%; */
+}
+
 
 #about{
     position: fixed;
@@ -91,7 +127,6 @@ p{
     font-family: 'Raleway', sans-serif;
     padding: 1px;
     color: #c2d6e7;
-    /* height: 20px; */
 }
 
 input{
@@ -103,6 +138,7 @@ button{
     display: block;
     margin: 0 auto;
 }
+
 
 #bg{
     position: absolute;
