@@ -44,7 +44,11 @@ I got feedback that the tool needs to make it so that the user can gain informat
 
 <img src="Assets/WIP11.png" width="500">
 
-I was initially considering making a new page that is exclusive to the chosen sign, however, due to time contraints, I settled on just doing a button generator once more.
+I was initially considering making a new page that is exclusive to the chosen sign, however, due to time contraints, I settled on just doing a button generator once more. After I setlled that, I began to have trouble with the "Unique You" aspects of the website. So I would have two document elements where it would show the subtitle and description of the object, like the birthstones. However, because it was randomized, the title didn't match with the description.
+
+<img src="Assets/WIP12.png" width="500">
+
+I was able to solve the randomization problem by creating a constant. By removing "random" and replacing it with "randomN,"it prevented the randomization in different documents, and allowed the title and descriptions to be consistent.
 
 ## References
 
